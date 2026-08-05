@@ -20,7 +20,7 @@ Markdown
 
 ### Skills
 
-System Architecture, Troubleshooting
+System Architecture, Technical System Documentation, Algorithm Explanation, Technical Editing
 
 ## [Metroidvania Pathfinder Documentation](https://github.com/BenSernau/Metroidvania-Pathfinder)
 
@@ -40,7 +40,7 @@ Markdown
 
 ### Skills
 
-System Architecture, Algorithms
+System Architecture, Graph Traversal, Pathfinding, User-Facing Documentation
 
 ## [Wave Spawner Documentation](https://github.com/BenSernau/Wave-Spawner)
 
@@ -60,7 +60,7 @@ Markdown
 
 ### Skills
 
-System Architecture, Algorithms
+System Architecture, Greedy Algorithm Design
 
 ## [Minecraft: Hate Basic Math? Use My File!](https://www.superjumpmagazine.com/minecraft-hate-basic-math-use-my-file/)
 
