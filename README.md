@@ -6,7 +6,7 @@ Welcome to my technical writing portfolio. These samples include documentation f
 
 ### Purpose
 
-A discussion of relationships among various puzzle objects and file management systems
+Documents architecture, object interactions, mechanics, and file management system of a puzzle game
 
 ### Audience
 
@@ -24,7 +24,7 @@ System Architecture, Troubleshooting
 
 ### Purpose
 
-A discussion of how one can use different types of search to develop routes through graphs
+Illustrates the development of routes through graphs with different types of search
 
 ### Audience
 
@@ -42,7 +42,7 @@ System Architecture, Algorithms
 
 ### Purpose
 
-A discussion of how to create level-by-level arenas in the context of game development
+Describes the internal mechanics behind a generator of level-by-level arenas
 
 ### Audience
 
@@ -60,7 +60,7 @@ System Architecture, Algorithms
 
 ### Purpose
 
-A discussion of how to use the application as well as how the application works
+Describes how to use the application and how it works
 
 ### Audience 
 
