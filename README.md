@@ -1,51 +1,87 @@
 # Ben Sernau's Technical Writing Projects
 
-**Title:** Technical Design Overview for These Walls Move
+Welcome to my technical writing portfolio. These samples include documentation for developers, explanations of system architecture, and technical content, demonstrating my ability to explain software systems and algorithms for developers and designers among other technical audiences.
 
-**Purpose:** A discussion of relationships among various puzzle objects and file management systems
-
-**Audience:** Developers and Designers
-
-**Format:** Markdown
-
-**Skills:** System Architecture, Troubleshooting
+## Technical Design Overview for These Walls Move
 
 [Technical Design Overview (TWM).pdf](https://github.com/BenSernau/Technical-Writing-Portfolio/blob/main/Technical%20Design%20Overview%20(TWM).md)
 
-**Title:** Technical Documentation for the Metroidvania Pathfinder
+### Purpose
 
-**Purpose:** A discussion of how one can use different types of search to develop routes through graphs
+A discussion of relationships among various puzzle objects and file management systems
 
-**Audience:** Developers and End Users
+### Audience
 
-**Format:** Markdown
+Developers and Designers
 
-**Skills:** System Architecture, Algorithms
+### Format
+
+Markdown
+
+### Skills
+
+System Architecture, Troubleshooting
+
+## Technical Documentation for the Metroidvania Pathfinder
 
 [Metroidvania Pathfinder Documentation](https://github.com/BenSernau/Metroidvania-Pathfinder)
 
-**Title:** Technical Documentation for the Wave Spawner
+### Purpose
 
-**Purpose:** A discussion of how to create level-by-level arenas in the context of game development
+A discussion of how one can use different types of search to develop routes through graphs
 
-**Audience:** Developers, Designers, and End Users
+### Audience
 
-**Format:** Markdown
+Developers and End Users
 
-**Skills:** System Architecture, Algorithms
+### Format
+
+Markdown
+
+### Skills
+
+System Architecture, Algorithms
+
+## Technical Documentation for the Wave Spawner
 
 [Wave Spawner Documentation](https://github.com/BenSernau/Wave-Spawner)
 
-**Title:** Minecraft: Hate Basic Math? Use My File!
+### Purpose
 
-**Purpose:** A discussion of how to use the application as well as how the application works
+A discussion of how to create level-by-level arenas in the context of game development
 
-**Audience:** Developers and End Users
+### Audience
 
-**Format:** Published Article
+Developers, Designers, and End Users
 
-**Skills:** System Architecture and Geometry among other Mathematics
+### Format
+
+Markdown
+
+### Skills
+
+System Architecture, Algorithms
+
+## Minecraft: Hate Basic Math? Use My File!
 
 [Minecraft: Hate Basic Math? Use My File!](https://www.superjumpmagazine.com/minecraft-hate-basic-math-use-my-file/)
+
+### Purpose
+
+A discussion of how to use the application as well as how the application works
+
+### Audience 
+
+Developers and End Users
+
+### Format
+
+Published Article
+
+### Skills
+
+System Architecture and Geometry among other Mathematics
+
+
 
 
