@@ -64,7 +64,7 @@ System Architecture, Algorithms
 
 ## [Minecraft: Hate Basic Math? Use My File!](https://www.superjumpmagazine.com/minecraft-hate-basic-math-use-my-file/)
 
-The Minecraft Building Calculator automates tedious geometry to show users how many blocks a structure requires to build.
+The [Minecraft Building Calculator](https://github.com/BenSernau/Minecraft-Building-Calculator) automates tedious geometry to show users how many blocks a structure requires to build.
 
 ### Purpose
 
