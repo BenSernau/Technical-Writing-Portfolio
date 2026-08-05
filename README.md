@@ -2,7 +2,7 @@
 
 Welcome to my technical writing portfolio. These samples include documentation for developers, explanations of system architecture, and technical content, demonstrating my ability to explain software systems and algorithms for developers and designers among other technical audiences.
 
-## [Technical Design Overview for These Walls Move](https://github.com/BenSernau/Technical-Writing-Portfolio/blob/main/Technical%20Design%20Overview%20(TWM).md)
+## [Technical Design Overview (These Walls Move)](https://github.com/BenSernau/Technical-Writing-Portfolio/blob/main/Technical%20Design%20Overview%20(TWM).md)
 
 ### Purpose
 
@@ -20,7 +20,7 @@ Markdown
 
 System Architecture, Troubleshooting
 
-## [Technical Documentation for the Metroidvania Pathfinder](https://github.com/BenSernau/Metroidvania-Pathfinder)
+## [Metroidvania Pathfinder Documentation](https://github.com/BenSernau/Metroidvania-Pathfinder)
 
 ### Purpose
 
@@ -38,7 +38,7 @@ Markdown
 
 System Architecture, Algorithms
 
-## [Technical Documentation for the Wave Spawner](https://github.com/BenSernau/Wave-Spawner)
+## [Wave Spawner Documentation](https://github.com/BenSernau/Wave-Spawner)
 
 ### Purpose
 
