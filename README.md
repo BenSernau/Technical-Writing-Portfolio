@@ -1,6 +1,6 @@
 # Ben Sernau's Technical Writing Projects
 
-Welcome to my technical writing portfolio. These samples include documentation for developers, explanations of system architecture, and technical content, demonstrating my ability to explain software systems and algorithms for developers and designers among other technical audiences.
+Welcome to my technical writing portfolio. These samples include documentation for developers, explanations of system architecture, and technical content, demonstrating my ability to explain software systems and algorithms for developers and designers among other technical audiences. **Unless otherwise indicated, I implemented and designed all software for which I have written these documents**.
 
 ## [Technical Design Overview (These Walls Move)](https://github.com/BenSernau/Technical-Writing-Portfolio/blob/main/Technical%20Design%20Overview%20(TWM).md)
 
