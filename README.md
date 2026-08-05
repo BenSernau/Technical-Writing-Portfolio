@@ -6,7 +6,7 @@
 
 **Audience:** Developers and Designers
 
-**Format:** PDF
+**Format:** Markdown
 
 **Skills:** System Architecture, Troubleshooting
 
