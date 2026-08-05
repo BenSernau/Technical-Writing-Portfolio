@@ -10,7 +10,7 @@
 
 **Skills:** System Architecture, Troubleshooting
 
-[Technical Design Overview (TWM).pdf](https://github.com/user-attachments/files/30750441/Technical.Design.Overview.TWM.pdf)
+[Technical Design Overview (TWM).pdf]([https://github.com/user-attachments/files/30750441/Technical.Design.Overview.TWM.pdf](https://github.com/BenSernau/Technical-Writing-Portfolio/blob/main/Technical%20Design%20Overview%20(TWM).md))
 
 **Title:** Technical Documentation for the Metroidvania Pathfinder
 
