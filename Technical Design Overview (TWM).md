@@ -44,7 +44,7 @@ With regard to the negative direction, not only must tiles move in the opposite 
 
 ### Minotaurs
 
-Minotaurs are the primary, dynamic obstacle. Not only do the minotaurs follow their tiles, but they also run a script to detect the pawn. More precisely, minotaurs use Breadth-First Search (BFS) to find the pawn whenever the player shifts tiles, since only such movement could yield a compromising path. Again, the game undoes the last shift or rotation if a minotaur finds the pawn.
+Minotaurs are the primary, dynamic obstacle. Not only do the minotaurs follow their tiles, but they also run a script to detect the pawn. More precisely, minotaurs use breadth-first search (BFS) to find the pawn whenever the player shifts tiles, since only such movement could yield a compromising path. Again, the game undoes the last shift or rotation if a minotaur finds the pawn.
 
 ### Rotating Tiles
 
@@ -82,6 +82,6 @@ Far from a graphically intensive game, *These Walls Move* can run at 60 frames p
 
 ## Known Limitations
 
-*These Walls Move* runs only in landscape on Androids. This is because GameMaker’s ability to change from landscape to portrait is slightly inconsistent, and the game works much more predictably in one set of dimensions. Landscape was preferable to portrait not only because the grids are bigger, but also because landscape has been a successful option for many popular games like *Plague Incorporated* and *Angry Birds*.
+*These Walls Move* runs only in landscape on Androids. This is because GameMaker’s ability to change from landscape to portrait is slightly inconsistent, and the game works much more predictably in one set of dimensions. Landscape was preferable to portrait not only because the orientation results in larger grids, but also because landscape has been a successful option for many popular games like *Plague Incorporated* and *Angry Birds*.
 
 At 4 to 6 hours, *These Walls Move* is not very long in comparison to other games. However, with concrete mechanics and a simple layout, the game has enough flexibility to include further levels or procedurally generate puzzles in later versions.
